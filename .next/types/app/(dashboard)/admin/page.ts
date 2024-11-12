@@ -1,8 +1,8 @@
-// File: /home/simplex/Documents/github 3 april/next-dashboard-ui/src/app/sign-in/page.tsx
-import * as entry from '../../../../src/app/sign-in/page.js'
+// File: /home/simplex/Documents/github 3 april/next-dashboard-ui/src/app/(dashboard)/admin/page.tsx
+import * as entry from '../../../../../src/app/(dashboard)/admin/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
-type TEntry = typeof import('../../../../src/app/sign-in/page.js')
+type TEntry = typeof import('../../../../../src/app/(dashboard)/admin/page.js')
 
 // Check that the entry is a valid entry
 checkFields<Diff<{
