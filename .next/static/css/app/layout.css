@@ -569,3 +569,35 @@ video {
 .visible {
   visibility: visible;
 }
+.flex {
+  display: flex;
+}
+.h-screen {
+  height: 100vh;
+}
+.w-\[\] {
+  width: ;
+}
+.w-\[7\] {
+  width: 7;
+}
+.w-\[1\] {
+  width: 1;
+}
+.w-\[14\&\] {
+  width: 14&;
+}
+.w-\[14\%\] {
+  width: 14%;
+}
+.w-\[86\%\] {
+  width: 86%;
+}
+.bg-red-300 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(252 165 165 / var(--tw-bg-opacity));
+}
+.bg-green-300 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(134 239 172 / var(--tw-bg-opacity));
+}
